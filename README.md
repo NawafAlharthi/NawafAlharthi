@@ -5,10 +5,7 @@
     user = 'Nawaf Alharthi'
 	current_edu = "KFUPM"
     currently_learning = "C & Python"
-	hobbies = [
-				'Gaming',
-			 	'Learning',
-				'Movies'
+	hobbies = [ 'Tech', 'Biz'
 			]
 	
 	def getCity():
