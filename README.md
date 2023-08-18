@@ -5,8 +5,7 @@
     user = 'Nawaf Alharthi'
 	current_edu = "KFUPM"
     currently_learning = "Web development"
-	hobbies = [ 'Tech','Biz'
-			]
+	hobbies = ['Tech','Biz']
 	def getCity():
 		return Jeddah()
 	def Ambitions():
