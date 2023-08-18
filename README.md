@@ -4,15 +4,16 @@
   class WhoAmI:
     user = 'Nawaf Alharthi'
 	current_edu = "KFUPM"
-    currently_learning = "C & Python"
-	hobbies = [ 'Tech', 'Biz'
+    currently_learning = "Web development"
+	hobbies = [ 'Tech',
+			'Biz'
 			]
 	
 	def getCity():
 		return Jeddah()
 	
 	def Ambitions():
-		BecomeSoftwareEngineer()
+		OpenSourceContributor()
 		BecomeMulti-Millionaire()
 	
  ```
