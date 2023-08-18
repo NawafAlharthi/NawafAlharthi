@@ -6,7 +6,7 @@
 	current_edu = "KFUPM"
     currently_learning = "Web development"
 	hobbies = [ 'Tech',
-			'Biz'
+			 'Biz'
 			]
 	
 	def getCity():
