@@ -10,7 +10,7 @@
 		return Jeddah()
 	def Ambitions():
 		OpenSourceContributor()
-		BecomeMulti-Millionaire()
+		BecomeBillionaire()
 	
  ```
 
