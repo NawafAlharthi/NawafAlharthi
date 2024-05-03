@@ -9,8 +9,7 @@
 	def getCity():
 		return Jeddah()
 	def Ambitions():
-		OpenSourceContributor()
-		BecomeBillionaire()
+		TBH()
 	
  ```
 
